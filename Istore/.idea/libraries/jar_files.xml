@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="jar_files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._poi-ooxml-lite-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._poi-ooxml-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._xmlbeans-5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._ant-launcher-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._log4j-api-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._ant-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._curvesapi-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._poi-excelant-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._poi-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/Istore/External Libraries/jar_files/._commons-codec-1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
